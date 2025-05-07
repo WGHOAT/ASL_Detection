@@ -2,5 +2,6 @@ THE Dataset to train the model is Downloaded From Kaggele ----> https://www.kagg
 The dataset Was Uploaded By ----> https://github.com/grassknoted  ----> aakash
 Thanks For the Dataset
 
-
-The Requirements FIle Might Contain some additional Libraries that are not used in this Project
+----------------------------------------------------------------------------------------------------------
+The requirements.txt FIle Might Contain some additional Libraries that are not used in this Project - Ex. Pytorch
+----------------------------------------------------------------------------------------------------------
