@@ -58,7 +58,7 @@ Sequential([
 
 5.Batch Size: 64
 
-# Training Results
+# 📈 Training Results
 | Epoch | Train Accuracy | Val Accuracy | Val Loss |
 | ----- | -------------- | ------------ | -------- |
 | 1     | 32.8%          | 52.8%        | 1.38     |
@@ -68,11 +68,11 @@ Sequential([
 | 5     | 92.9%          | 71.9%        | 1.12     |
 
 
-# Example Usage 
+# 🔍 Example Usage 
 
 predict_image('asl_alphabet_test/asl_alphabet_test/A_test.jpg')
 
-# Dependencies
+# 🧱 Dependencies
 
 tensorflow
 numpy
@@ -80,7 +80,7 @@ matplotlib
 keras
 Pillow (for image processing)
 
-# Future Improvements
+# 🚀 Future Improvements
 Use transfer learning (e.g., MobileNet, EfficientNet)
 Add real-time webcam-based detection
 Convert model to TFLite and deploy on Android
