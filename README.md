@@ -69,9 +69,9 @@ Sequential([
 
 
 # 🔍 Example Usage 
-
+```python
 predict_image('asl_alphabet_test/asl_alphabet_test/A_test.jpg')
-
+```
 # 🧱 Dependencies
 
 tensorflow
